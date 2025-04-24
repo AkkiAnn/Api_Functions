@@ -1,5 +1,5 @@
 # Api_Functions
-# 🧪 API Testing with Pytest
+# API Testing with Pytest
 
 This project contains automated tests for a RESTful API using `pytest`. It validates key functionalities like status codes, headers, data fetching, insertion, and deletion with mock data.
 
